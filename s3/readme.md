@@ -5,3 +5,4 @@ Trabajo Semana 3:
 * [Comparativo Area Chart](https://public.tableau.com/views/comparativo_area_chart/ComparativoAreaChart?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 * [Mapa de Fallecidos por Covid 19](https://public.tableau.com/shared/RWCD3KRT5?:display_count=n&:origin=viz_share_link)
 * [Mortandad](https://public.tableau.com/views/Mortandad/Mortandad?:language=es-ES&:display_count=n&:origin=viz_share_link)
+* [Letalidad por Mes](https://public.tableau.com/views/LetalidadporMes/LetalidadporMes?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)

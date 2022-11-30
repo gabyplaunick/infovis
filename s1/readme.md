@@ -4,4 +4,4 @@ Primer semana de trabajo:
 * [Solo el Grafico](https://gabyplaunick.github.io/infovis/s1/tableau.html)
 * [Hola mundo](https://gabyplaunick.github.io/infovis/s1/holamundo.html)
 * [Rawgraph](https://gabyplaunick.github.io/infovis/s1/Rawgraph.html)
-* [Observable Plot.js]
+* [Observable Plot.js](https://gabyplaunick.github.io/infovis/s1/observable.html)
